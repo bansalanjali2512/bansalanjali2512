@@ -1,4 +1,4 @@
-### Hi there, I'm Anjali 👋
+## Hi there, I'm Anjali 👋
 
 #### 💼 Product-driven Software Engineer, currently shaping products at Informatica.
 
@@ -13,6 +13,9 @@ I have **5 years of experience** in designing and developing scalable software s
 - **Other tools:** Git, Postman, IntelliJ IDEA
 
 <p align="left">
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="python" width="40" height="40" />
+  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
